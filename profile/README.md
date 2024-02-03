@@ -3,10 +3,11 @@
 
 <p align="center">
 
-    <a href="https://bd.linkedin.com/company/octagramofficial"><img src = "https://img.shields.io/badge/LinkedIn-follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="17%" target="blank"></a>
-    <a href="https://www.facebook.com/OctagramLimited/"><img src = "https://img.shields.io/badge/Facebook-follow-blue?style=for-the-badge&labelColor=black&logo=facebook" width="17%" target="blank"></a>
-    <a href="https://www.youtube.com/channel/UCIyZAHtckz1S_VGDSM0pnPw"><img src = "https://img.shields.io/badge/youtube-subscribe-blue?style=for-the-badge&labelColor=red&logo=youtube" width="17%" target="blank"></a>
-    <a href="https://www.instagram.com/octagramofficial/"><img src = "https://img.shields.io/badge/instagram-follow-blue?style=for-the-badge&labelColor=black&logo=instagram" width="17%" target="blank"></a>
+<a href="https://bd.linkedin.com/company/octagramofficial"><img src = "https://img.shields.io/badge/LinkedIn-follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="17%" target="blank"></a>
+<a href="https://www.facebook.com/OctagramLimited/"><img src = "https://img.shields.io/badge/Facebook-follow-blue?style=for-the-badge&labelColor=black&logo=facebook" width="17%" target="blank"></a>
+<a href="https://www.youtube.com/channel/UCIyZAHtckz1S_VGDSM0pnPw"><img src = "https://img.shields.io/badge/youtube-subscribe-blue?style=for-the-badge&labelColor=red&logo=youtube" width="17%" target="blank"></a>
+<a href="https://www.instagram.com/octagramofficial/"><img src = "https://img.shields.io/badge/instagram-follow-blue?style=for-the-badge&labelColor=black&logo=instagram" width="17%" target="blank"></a>
+
 </p>
 
 <br>
