@@ -1,5 +1,6 @@
 
-![logo.png](./logo.png)
+<p align="center"><a href="https://www.octagramltd.com/?from=github"><img src="./logo.png" width="20%"></a></p>
+
 
 We, at [Octagram](https://www.octagramltd.com) believe that our client's concerns should be our concern too. We’re a business focused company and we do our best to create the best experience we can for you. That’s a promise.
 
@@ -9,6 +10,6 @@ Octagram is a new IT business. We have been working tirelessly for the creation 
 
 [See more](https://www.octagramltd.com/about.html)
 
-# Let's Start With Us!
+### Let's Start With Us!
 
 [Contact](https://www.octagramltd.com/contact.html)
