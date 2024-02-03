@@ -1,6 +1,14 @@
 
 <p align="center"><a href="https://www.octagramltd.com/?from=github"><img src="./logo.png" width="20%"></a></p>
 
+<a href="https://twitter.com/poweredbyClubs"><img src = "https://img.shields.io/twitter/follow/poweredbyClubs?style=social" width="17%" target="blank"></a>
+
+<p align="center">
+  <a href="https://OctagramLTD.com">
+    OctagramLTD
+  </a>:
+    Tour trusted partner in comprehensive IT solutions
+</p>
 
 We, at [Octagram](https://www.octagramltd.com) believe that our client's concerns should be our concern too. We’re a business focused company and we do our best to create the best experience we can for you. That’s a promise.
 
