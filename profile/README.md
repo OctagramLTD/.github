@@ -1,6 +1,5 @@
 
-<img src="./logo.png" height="700"/>
-
+![logo.png](./logo.png)
 
 We, at [Octagram](https://www.octagramltd.com) believe that our client's concerns should be our concern too. We’re a business focused company and we do our best to create the best experience we can for you. That’s a promise.
 
